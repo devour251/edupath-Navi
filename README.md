@@ -1,28 +1,8 @@
 <div align="center">
 
-# 🎓 EduPath Navigator
-
-**🏆 Smart India Hackathon (SIH) Winning Project 🏆**
-
-[![Next.js](https://img.shields.io/badge/Next.js-15.5-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-11.9-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Genkit AI](https://img.shields.io/badge/Google_Genkit_AI-1.14-4285F4?style=for-the-badge&logo=google)](https://firebase.google.com/docs/genkit)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-1.0-161618?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/)
-
-A revolutionary, AI-powered educational platform designed to guide students through the complex journey from school to their dream careers.
-
-[Explore Lead Developer Portfolio](https://rajeswar.tech)
 
 </div>
 
----
-
-## 🌟 Overview
-
-**EduPath Navigator** is an all-in-one educational guidance system built to help students make informed career choices. Conceived and developed for the **Smart India Hackathon (SIH)**—where it emerged as the winning solution—it leverages state-of-the-art AI (Google Genkit), beautiful user interfaces, and an extensive database of educational institutions to transform how students approach their future.
-
----
 
 ## ✨ Core Features
 
