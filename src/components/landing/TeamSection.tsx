@@ -14,34 +14,26 @@ import {
 } from "@/components/ui/dialog";
 
 const teamMembers = [
+
     {
-        name: "Rajeswar",
-        role: "Lead Developer",
-        icon: Code2,
-    },
-    {
-        name: "MaaTeja",
-        role: "UI/UX Designer",
+        name: "Pavan",
+        role: "Frontend developer",
         icon: Layout,
     },
     {
-        name: "Karunya",
+        name: "Nithish",
         role: "AI Specialist",
         icon: Brain,
     },
+
     {
-        name: "Niveditha",
-        role: "Frontend Dev",
-        icon: Smartphone,
-    },
-    {
-        name: "Harika",
-        role: "Research",
+        name: "Naveen",
+        role: "Backend Developer",
         icon: Database,
     },
     {
-        name: "Priya",
-        role: "Content Strategy",
+        name: "Prashanth",
+        role: "Backend Developer",
         icon: Shield,
     },
 ];
@@ -208,43 +200,7 @@ export function TeamSection() {
                     transition={{ delay: 0.6 }}
                     className="mt-16 text-center"
                 >
-                    <Dialog>
-                        <DialogTrigger asChild>
-                            <button className="inline-flex items-center text-sm font-medium text-emerald-600 hover:text-emerald-700 transition-colors hover:underline underline-offset-4">
-                                Visit Developer Portfolio <span className="ml-1">→</span>
-                            </button>
-                        </DialogTrigger>
-                        <DialogContent className="sm:max-w-md">
-                            <DialogHeader>
-                                <DialogTitle className="text-emerald-950">Choose Portfolio Link</DialogTitle>
-                                <DialogDescription className="text-emerald-800/80">
-                                    Please select one of the links below to view the portfolio.
-                                </DialogDescription>
-                            </DialogHeader>
-                            <div className="flex flex-col gap-4 mt-4">
-                                <a
-                                    href="https://rajeswar.tech"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="flex flex-col p-4 border rounded-lg hover:bg-emerald-50 transition-colors border-emerald-100 group"
-                                >
-                                    <span className="font-semibold text-emerald-900 group-hover:text-emerald-700">Main Link (Recommended)</span>
-                                    <span className="text-sm text-emerald-600/70">www.rajeswar.tech</span>
-                                </a>
-                                <a
-                                    href="https://rajeswar-tech.vercel.app/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="flex flex-col p-4 border rounded-lg hover:bg-emerald-50 transition-colors border-emerald-100 group"
-                                >
-                                    <span className="font-semibold text-emerald-900 group-hover:text-emerald-700">Backup Link</span>
-                                    <span className="text-sm text-emerald-600/70">
-                                        Use this if your college/office WiFi blocks the main link
-                                    </span>
-                                </a>
-                            </div>
-                        </DialogContent>
-                    </Dialog>
+
                 </motion.div>
             </div>
         </section>
