@@ -94,24 +94,3 @@ npm run genkit:dev
 Open [http://localhost:9002](http://localhost:9002) in your browser to see the app!
 
 ---
-
-## 🤝 The Team
-
-We are a passionate team of tech pioneers cultivating the future of education:
-
-*   **Rajeswar** - Lead Developer 💻
-*   **MaaTeja** - UI/UX Designer 🎨
-*   **Karunya** - AI Specialist 🧠
-*   **Niveditha** - Frontend Dev 📱
-*   **Harika** - Research 📊
-*   **Priya** - Content Strategy 🛡️
-
----
-
-## 🏆 Smart India Hackathon Winner
-
-This repository holds the grand finale code for our winning SIH product. We poured our hearts into addressing the educational gap and empowering students from all backgrounds (urban, semi-urban, and rural) to make confident career decisions. 
-
-<div align="center">
-  <p>Built with ❤️ by Team Tech Pioneers</p>
-</div>
